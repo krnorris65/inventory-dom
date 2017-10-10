@@ -1,0 +1,24 @@
+.furniture {
+    background-color: lightyellow;
+    padding: .5em;
+}
+
+.decor {
+    background-color: lightblue;
+    padding: .5em;
+    
+}
+
+.electronics {
+    background-color: lightcoral;
+    padding: .5em;
+}
+
+.furniture_name, .decor_name, .electronics_name {
+    margin: 0;
+    padding-bottom: .5em;
+}
+
+section {
+    border: .5px black solid;
+}
